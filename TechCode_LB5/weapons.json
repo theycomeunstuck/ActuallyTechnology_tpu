@@ -1,0 +1,30 @@
+[
+  {
+    "wclass": "Rifle",
+    "name": "AK-47",
+    "price": 25100.02,
+    "capacity": 30,
+    "rapidity": 600
+  },
+  {
+    "wclass": "Pistol",
+    "name": "PM",
+    "price": 12000.0,
+    "capacity": 8,
+    "rapidity": 120
+  },
+  {
+    "wclass": "Knife",
+    "name": "Bayonet",
+    "price": 1500.0,
+    "capacity": 0,
+    "rapidity": 0
+  },
+  {
+    "wclass": "SMG",
+    "name": "SMG",
+    "price": 200.0,
+    "capacity": 30,
+    "rapidity": 600
+  }
+]

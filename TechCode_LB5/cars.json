@@ -1,0 +1,12 @@
+{
+  "companyName": "Company",
+  "carList": [
+    {
+      "type": "Sedan",
+      "brand": "brand",
+      "model": "model",
+      "price": 12345.0,
+      "trunkVolume": 0
+    }
+  ]
+}

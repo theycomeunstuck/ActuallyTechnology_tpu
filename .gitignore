@@ -1,0 +1,11 @@
+/venv/
+/some neuralNetworks/
+/.idea/
+
+
+main.py
+tmep.py
+
+
+
+/_out/
